@@ -1,6 +1,6 @@
 # config-file-type: JSON 1
 {
-   "description" : "The colonists of Slee Ozatt 3 were promised a planet with rich plant life and diverse food supplies only to arrive and find no  gypsum, sulfur, or monazite meaning nothing but fungus and Algae will grow in their barren home. Help them with some ore and they will share in the fruits of their labor.",
+   "description" : "The colonists of Slee Ozatt 4 were promised a planet with rich plant life and diverse food supplies only to arrive and find no gypsum, sulfur, or monazite meaning nothing but fungus and Algae will grow in their barren home. Help them with some ore and they will share with the fruits of their labor.",
    "max_university_level" : "10",
    "mission_objective" : {
       "resources" : {
